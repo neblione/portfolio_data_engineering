@@ -1,6 +1,7 @@
 <img width="1536" height="1024" alt="fundo_readme" src="https://github.com/user-attachments/assets/4f427244-6213-464b-bd3b-eab30081f9c6" />
 
 Hello and welcome!  
+
 I’m Eduardo, and this is my **Data Engineering portfolio**.  
 Here I share projects I’ve worked on, where I had the opportunity to explore different tools,  
 architectures, and data processing techniques.  
