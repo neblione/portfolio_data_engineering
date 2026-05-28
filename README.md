@@ -1,22 +1,20 @@
 <img width="1536" height="1024" alt="fundo_readme" src="https://github.com/user-attachments/assets/4f427244-6213-464b-bd3b-eab30081f9c6" />
 
-Hello and welcome!  
+Olá e seja bem-vindo! 
 
-I’m Eduardo, and this is my **Data Engineering portfolio**.  
-Here I share projects I’ve worked on, where I had the opportunity to explore different tools,  
-architectures, and data processing techniques.  
+Sou Eduardo, e este é o meu portfólio de Engenharia de Dados. Aqui compartilho projetos nos quais 
+trabalhei, onde tive a oportunidade de explorar diferentes ferramentas, arquiteturas e técnicas de 
+processamento de dados. Se tiver alguma dúvida ou quiser trocar uma ideia, fique à vontade para entrar 
+em contato — terei prazer em ajudar e compartilhar conhecimento! 
 
-If you have any questions or want to connect, feel free to reach out —  
-I’ll be glad to help and exchange knowledge! 
+## Stack Tecnológica 
 
-## Tech Stack 
+Estas são as principais ferramentas e tecnologias que utilizo em meus projetos, 
+abrangendo ETL, cloud, data lakes, orquestração e BI. 
 
-These are the main tools and frameworks I work with in my projects,  
-covering ETL, cloud, data lakes, orchestration, and BI.
+## Índice de Projetos 
 
-## Project Index
-
-In this section, you will find a curated list of my Data Engineering projects,  
-each with a brief description and a direct link to the repository or folder.  
-The goal is to showcase practical applications of modern tools, techniques,  
-and best practices across different data scenarios.  
+Nesta seção, você encontrará uma seleção dos meus projetos de Engenharia de Dados, cada um com uma 
+breve descrição e um link direto para o repositório ou pasta correspondente. O objetivo é 
+demonstrar aplicações práticas de ferramentas modernas, técnicas e boas práticas em 
+diferentes cenários de dados.
